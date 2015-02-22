@@ -1,5 +1,5 @@
 # Matlab_3D_Surface_Reconstruction_Photometric_Stereo
-D surface reconstruction has been proposed as a technique by which an object in the real world 
+3D surface reconstruction has been proposed as a technique by which an object in the real world 
 can be reconstructed from a set of only 2D digital images. This rubric is very useful in many 
 applications including robot navigation, terrain modeling, remote surgery, shape analysis, 
 computer interaction, scientific visualization, movie making, and computer aided design. 
